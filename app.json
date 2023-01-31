@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "pokedex",
-    "slug": "pokedex",
+    "slug": "pokedex-platzi",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "664f4f42-7e69-489e-85d7-e937c4b1990f"
+      }
+    },
+    "owner": "effrenanthony"
   }
 }
